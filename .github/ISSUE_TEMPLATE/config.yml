@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  # - name: Confidential Issues and Bugs
+  #   url: https://raql.ai/contact
+  #   about: Submit any confidential bugs or issues to the Raql support team.
+  - name: Raql Issue Search
+    url: https://github.com/curino-hq/raql.ai/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+    about: Search Raql's open issues and feature requests.
+  # - name: Raql Documentation
+  #   url: https://docs.raql.ai
+  #   about: Documentation for features, troubleshooting, and more!
+  - name: Raql Homepage
+    url: https://raql.ai/
+    about: Homepage for all things Raql.
